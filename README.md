@@ -52,6 +52,7 @@ The program automatically groups files into categories:
 
 ```bash
 python "File organizer.py"
+```
 
 # 📂 File Organizer (Python)
 
